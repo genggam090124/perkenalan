@@ -6,5 +6,5 @@
 # Hobi = Memainkan Game dan memasak
 # insta = @genggams
 #
-Foto senyum :
+# Foto senyum :
 ![alt text](https://github.com/genngam/perkenalan/blob/master/WhatsApp%20Image%202020-07-22%20at%201.44.33%20PM.jpeg) 
